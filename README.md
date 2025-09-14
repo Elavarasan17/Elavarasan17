@@ -6,8 +6,7 @@
 ## 🚀 Skills
 - Languages: Python, Java, Scala, JavaScript, SQL, Bash
 - Databases: PostgreSQL, Oracle, Azure SQL Server, MongoDb, DynamoDb
-- Frameworks: Apache Spark, Hadoop, Hive, Teradata, Airflow, Deequ, Databricks, Spring Boot, OAuth2.0, Hibernate,
-- Fastapi, SqlAlchemy, Pytest, Tensorflow, Tableau
+- Frameworks: Apache Spark, Hadoop, Hive, Teradata, Airflow, Deequ, Databricks, Spring Boot, OAuth2.0, Hibernate, Fastapi, SqlAlchemy, Pytest, Tensorflow, Tableau
 - Tools: AWS, Azure, React, Redux, MaterialUI, Kubernetes, Docker, Git, Github Actions, Linux, Terraform, Jenkins, Junit
 
 ## 🌐 Socials:
